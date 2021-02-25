@@ -1,0 +1,14 @@
+D:\Programming\FileZipper\FileZipper\bin\Debug\FileZipper.exe.config
+D:\Programming\FileZipper\FileZipper\bin\Debug\FileZipper.exe
+D:\Programming\FileZipper\FileZipper\bin\Debug\FileZipper.pdb
+D:\Programming\FileZipper\FileZipper\bin\Debug\Ionic.Zip.dll
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.csprojAssemblyReference.cache
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.Properties.Resources.resources
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.csproj.GenerateResource.cache
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.csproj.CoreCompileInputs.cache
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.csproj.CopyComplete
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.exe
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.pdb
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.Main.resources
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.ArchiveFiles.resources
+D:\Programming\FileZipper\FileZipper\obj\Debug\FileZipper.ArchiveDir.resources
