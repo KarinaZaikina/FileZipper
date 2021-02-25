@@ -60,7 +60,7 @@ namespace FileZipper
                     }
 
                     zipFile.Save(textBox1.Text);
-                    MessageBox.Show("Операція архівації файлів пройшла успішно!");
+                    MessageBox.Show("Операція архівації файлів пройшла успішно");
                     this.Close();
                 }
             }
