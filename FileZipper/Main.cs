@@ -36,7 +36,7 @@ namespace FileZipper
 
         private void buttonInfo_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Інформація про програмне забезпечення: \n @FileZipper 2021 \n Zaikina K.E. KNT-128");
+            MessageBox.Show("Інформація про програмне забезпечення: \n @FileZipper 2021 \n Zaikina K.E. KNT128");
         }
     }
 }
