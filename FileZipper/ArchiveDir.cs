@@ -50,7 +50,7 @@ namespace FileZipper
 
                 if (!Directory.Exists(textBoxFolder.Text))
                 {
-                    MessageBox.Show("Оберіть дійсну директорію", "Помилка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    MessageBox.Show("Оберіть дійсну директорію!", "Помилка!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
 
